@@ -20,6 +20,6 @@
   
 ### 👩‍💻 My Github Stats 👩‍💻 
 <img src="https://github-readme-stats.vercel.app/api?username=Lee-SeulGi&show_icons=true&hide_title=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-SeulGi&layout=compact">  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-SeulGi&layout=compact">
 
 </div>
