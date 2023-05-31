@@ -5,9 +5,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLee-SeulGi&count_bg=%2399A0FF&title_bg=%237780F9&icon=smugmug.svg&icon_color=%23ECECEC&title=hits&edge_flat=false)](https://github.com/Lee-SeulGi)  
 
 ### 📚 Tech Stack 📚
-  
-📝 Platforms & Languages 📝
-<br>
+
+📝 Platforms & Languages 📝<br>
+
 <img src="https://img.shields.io/badge/Java-3776AB?style=flat&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -19,9 +19,9 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Oracle Database-F80000?style=flat&logo=oracle&logoColor=white"/>
 <br>  
-  
-🛠 Tools 🛠
-<br>  
+
+<br>🛠 Tools 🛠<br>
+
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/>  
