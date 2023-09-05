@@ -35,9 +35,5 @@
 <img src="https://img.shields.io/badge/tmf109@naver.com-03C75A?style=flat&logo=naver&logoColor=white"/>
 <a href="https://www.instagram.com/_2_seul_9i/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>    
 <br>
-  
-###  👩🏻‍💻 My Github Stats 👩🏻‍💻 
-<img src="https://github-readme-stats.vercel.app/api?username=Lee-SeulGi&show_icons=true&hide_title=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-SeulGi&layout=compact"><br>
 
 </div>
